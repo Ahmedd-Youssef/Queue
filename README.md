@@ -1,3 +1,8 @@
+---
+## DataStructure-Queue
+### Using C++
+---
+``` C++
 #include<iostream>
 #define MaxSize 100
 using namespace std;
@@ -81,4 +86,4 @@ int main()
 		}
 	} while (choise != 4);
 	return 0;
-}
+}```
