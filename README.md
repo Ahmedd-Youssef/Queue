@@ -1,6 +1,6 @@
 ---
-## DataStructure-Queue
-### Using C++
+## DataStructure -Queue- Using C++
+### You Have All Control in Your Queue - Just Run The Program
 ---
 ``` C++
 #include<iostream>
